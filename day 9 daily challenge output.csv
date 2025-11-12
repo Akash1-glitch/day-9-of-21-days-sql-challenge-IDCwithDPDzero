@@ -1,0 +1,4 @@
+service,average_stay_days,patient_count
+surgery,7.8661,254
+ICU,7.6058,241
+emergency,7.1597,263
